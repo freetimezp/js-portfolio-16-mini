@@ -1,2 +1,3 @@
 https://www.youtube.com/watch?v=wLdEwTjpHIA
 https://boxicons.com/usage
+https://github.com/mattboldt/typed.js/
